@@ -1,0 +1,8 @@
+My Twit GWT Light project:
+
+Used ListDataProvider (there is idea to use asyncDataProvider with SimplePager)
+
+Missing TODOS:
+-no unit tests 
+-no thread safe (conncurent list)
+-no input validation 
